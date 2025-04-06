@@ -139,7 +139,7 @@ def merge_files(file1_path, file2_path, output_file_path):
 
 
 # File paths for input and output
-input_file = 'D:/Uni/Trees/Programs/Generator/domainGenerator/patterns.txt'
+input_file = 'D:/Uni/Trees/Programs/Generator/domainGenerator/patterns_new.txt'
 output_file_path = 'D:/Uni/Trees/Programs/Generator/domainGenerator/rdf_output.txt'
 
 # Process the file and write RDF blocks to the output file
